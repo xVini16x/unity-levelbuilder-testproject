@@ -65,7 +65,7 @@
         "com.unity.modules.ui": "1.0.0"
       }
     },
-    "com.unity.unity-levelbuilder": {
+    "de.hats.unity-levelbuilder": {
       "version": "file:unity-levelbuilder",
       "depth": 0,
       "source": "embedded",
