@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 54185a58d06f62540bf2f936c92ab286, type: 3}
+  m_Name: LevelBuilderSettings
+  m_EditorClassIdentifier: 
+  fullWall: {fileID: 3880970364226583004, guid: 12fb7ecb5e6253c4cb60555a1c797778,
+    type: 3}
+  wallShortenedLeft: {fileID: 6946093367893538843, guid: 810545994fc0ccc4f8421e5cc832340e,
+    type: 3}
+  wallShortenedRight: {fileID: 8669477282920819074, guid: 4cd704ba70ce2bd44821ed6e55e7652e,
+    type: 3}
+  wallShortenedBothSides: {fileID: 7232082351944748379, guid: 1e5ef1e2728648e4c88e1dc54cd85f46,
+    type: 3}
+  floor: {fileID: 3909887314311561971, guid: 0db5f1958cceae9489d89adbd4200555, type: 3}
+  corner: {fileID: 7432942183592330202, guid: f50991a5ce4ed384db2868adac1404eb, type: 3}
+  transparentMaterial: {fileID: 2100000, guid: 7cb4da9b73d718349b0266d288d8c93a, type: 2}
+  wallSideMaterial: {fileID: 10303, guid: 0000000000000000f000000000000000, type: 0}
+  roomName: StandardRoom
+  roomSize: {x: 10, y: 10}
