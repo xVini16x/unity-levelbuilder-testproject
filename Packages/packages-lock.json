@@ -65,11 +65,12 @@
         "com.unity.modules.ui": "1.0.0"
       }
     },
-    "com.unity.unity-levelbuilder": {
-      "version": "file:unity-levelbuilder",
+    "de.hats.unity-levelbuilder": {
+      "version": "https://github.com/xVini16x/unity-levelbuilder.git#v1.0.0",
       "depth": 0,
-      "source": "embedded",
-      "dependencies": {}
+      "source": "git",
+      "dependencies": {},
+      "hash": "096f860b1bb1b85a46ac0a3071bfd6ef64e98f6f"
     },
     "com.unity.modules.ai": {
       "version": "1.0.0",
